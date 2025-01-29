@@ -2855,3 +2855,8 @@ body.dark-mode {
   background-color: orange;
   color: #fff;
 }
+
+.social{
+  height: 70px;
+  width: 50px;
+}
